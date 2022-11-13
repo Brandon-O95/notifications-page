@@ -194,7 +194,7 @@ p.time {
   background-color: #E5EFFA;
 }
 
-/* @media (max-width: 768px) {
+@media (max-width: 768px) {
   main {
     width: 500px;
   }
@@ -202,14 +202,15 @@ p.time {
 
 @media (max-width: 440px) {
   main {
+    width: 100%;
     font-size: 15px;
     padding: 24px 16px;
   }
 
-  .read, .unread{
-    margin: 2rem;
-    margin: 1rem 0;
+  main a, .unread{
+    margin: 2rem 0;
     padding: 1rem;
+    width: 100%;
   }
 
   .notif-text {
@@ -218,10 +219,24 @@ p.time {
 
   h1 {
     padding-left: 0;
+    font-size: 20px;
   }
 
   button {
     padding-right: 0;
   }
+  
+  main a {
+    padding: 0;
+    margin: 15px;
+  }
 
-} */
+  .count {
+    position: static;
+  }
+
+  .text-box {
+    max-width: 270px;
+  }
+
+}
