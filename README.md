@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](/notifications-page/notifications-page/design/desktop-preview.jpg)
+![](design/desktop-preview.jpg)
 
 ### Links
 
