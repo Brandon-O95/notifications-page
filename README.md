@@ -28,11 +28,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](./notifications-page/design/desktop-preview.jpg)
+![./notifications-page/design/desktop-preview.jpg](./screenshot.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/notifications-page-solution-responsive-flZngEV6z2]
 - Live Site URL: [https://brandon-o95.github.io/notifications-page/#]
 
 ## My process
